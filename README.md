@@ -1,2 +1,2 @@
 # richnicholls.github.io
-This is my coding portfolio site
+This is where I save my code
